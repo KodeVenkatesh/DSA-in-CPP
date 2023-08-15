@@ -1,0 +1,12 @@
+Count digits in a number
+Palindrome number
+Factorial of a number 
+Trailing 0s in a factorial 
+GCD or HCF of 2 numbers
+LCM of two numbers
+Check for prime
+Prime factors
+All divisors of a number
+Sieve of Eratosthenes
+Computing power 
+Iterative Power
